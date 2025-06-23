@@ -1,0 +1,9 @@
+{
+	"name": "reddyhospitalsdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "46171cac-4025-47ac-94ce-bd0b515a16d7",
+		"tenantId": "8d1a69ec-03b5-4345-ae21-dad112f5fb4f"
+	}
+}
